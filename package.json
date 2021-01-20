@@ -1,17 +1,17 @@
 {
-  "name": "strapi-provider-email-smtp",
-  "version": "1.0.0",
+  "name": "strapi-provider-email-smtp2",
+  "version": "0.1.0",
   "description": "Strapi SMTP email provider with nodemailer",
   "main": "./lib",
   "directories": {
-    "lib": "./lib"
+    "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bass3l/strapi-provider-email-smtp.git"
+    "url": "git+https://github.com/patterndigital/strapi-provider-email-smtp2.git"
   },
   "keywords": [
     "strapi",
@@ -24,10 +24,10 @@
     "lodash": "^4.17.15",
     "nodemailer": "^6.4.6"
   },
-  "author": "Bassel Shmali",
+  "author": "PatternDigital",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bass3l/strapi-provider-email-smtp/issues"
+    "url": "https://github.com/patterndigital/strapi-provider-email-smtp2/issues"
   },
-  "homepage": "https://github.com/bass3l/strapi-provider-email-smtp#readme"
+  "homepage": "https://github.com/patterndigital/strapi-provider-email-smtp2#readme"
 }
